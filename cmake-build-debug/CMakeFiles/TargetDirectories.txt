@@ -1,0 +1,4 @@
+D:/CLionProjects/process-scheduling-simulation/cmake-build-debug/CMakeFiles/process-handling.cpp.dir
+D:/CLionProjects/process-scheduling-simulation/cmake-build-debug/CMakeFiles/test.dir
+D:/CLionProjects/process-scheduling-simulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/process-scheduling-simulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

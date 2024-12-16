@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "D:/CLionProjects/process-scheduling-simulation/cmake-build-debug",
+	"dir-cur-src" : "D:/CLionProjects/process-scheduling-simulation",
+	"dir-top-bld" : "D:/CLionProjects/process-scheduling-simulation/cmake-build-debug",
+	"dir-top-src" : "D:/CLionProjects/process-scheduling-simulation",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/CLionProjects/process-scheduling-simulation/cmake-build-debug/CMakeFiles/process_scheduling_simulation.dir"
+}
